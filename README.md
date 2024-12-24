@@ -1,3 +1,4 @@
+
 ---
 
 # SystemPulse  
@@ -31,7 +32,7 @@ Ikuti langkah-langkah berikut untuk menginstal **SystemPulse**:
 ### 1. Clone Repositori  
 Jalankan perintah berikut:  
 ```bash  
-git clone https://github.com/quincy-dev/SystemPulse.git  
+git clone https://github.com/QuincyDev/SystemPulse.git  
 cd SystemPulse  
 ```  
 
@@ -68,10 +69,11 @@ Ikuti langkah-langkah ini untuk menghapus **SystemPulse**:
 
 ## 📞 Kontak Developer  
 Jika Anda memiliki pertanyaan atau masukan, hubungi:  
-- **Email:** antabogabotz@gmail.com 
-- **GitHub:** [QuincyDev](https://github.com/quincy-dev)  
+- **Email:** quincydev@example.com  
+- **GitHub:** [QuincyDev](https://github.com/QuincyDev)  
 
 ## 👨‍💻 Nama Developer  
 **Quincy Dev**  
 
 ---  
+
